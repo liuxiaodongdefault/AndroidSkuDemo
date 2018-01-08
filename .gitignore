@@ -1,0 +1,11 @@
+/local.properties
+.gradle
+.idea
+.DS_Store
+build
+/captures
+.iml
+.gitignore.swp
+.bin
+*.iml
+.lock
